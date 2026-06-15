@@ -47,18 +47,6 @@ The final design delivers a professional online presence for a nail salon, makin
 https://www.figma.com/proto/qk4LyOhdX8Ur60fAiHCtSa/EVERCURES---Nail-Salon---Landing-page-website--Community-?node-id=102-14&starting-point-node-id=102%3A14&t=btYXCUdzdvoHcE1N-1
 
 ## Screenshots
-
-### Hero Section
-![Hero Section](screenshots/hero-section.png)
-
-### Services Section
-![Services Section](screenshots/services-section.png)
-
-### Testimonials Section
-![Testimonials Section](screenshots/testimonials-section.png)
-
-### Pricing Section
-![Pricing Section](screenshots/pricing-section.png)
-
-### Contact Section
-![Contact Section](screenshots/contact-section.png)
+<img width="714" height="662" alt="WhatsApp Image 2026-06-15 at 2 36 09 PM" src="https://github.com/user-attachments/assets/ab868859-75dd-460a-8269-c04dba2bc4e3" />
+<img width="670" height="698" alt="WhatsApp Image 2026-06-15 at 2 36 10 PM" src="https://github.com/user-attachments/assets/55347745-a122-4c99-82b4-3a48fabcc491" />
+<img width="720" height="1331" alt="WhatsApp Image 2026-06-15 at 2 36 10 PM (1)" src="https://github.com/user-attachments/assets/a58fbe2e-5d0c-4c02-9940-77d10d787c06" />
